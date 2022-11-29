@@ -16,3 +16,6 @@ HTML Course :
   More common than the common housefly,
   these HTML tags are virtually ubiquitous and can be found populating nearly every webpage.
   
+  5 - Tables :
+  Tables are best used to organize your page layout! 
+  Just kidding. Please don't ever use table layouts. This isn't 1996.
