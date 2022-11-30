@@ -23,4 +23,8 @@ HTML Course :
   6 - Forms :
   It is often joked that frontend developers spend most of their time just editing buttons on forms. 
   Theoretically though, if this turned out to be true, wouldn't it behoove you to ensure you knew your way around forms?
+
+
+  7 - Document Object Model :
+  Ah, the Document Object Model. A term that you've heard many times before, that feels intimately familiar, yet that you couldn't define if your life—or your frontend interview—depended on it. Let's change that.
   
