@@ -19,3 +19,4 @@ HTML Course :
   5 - Tables :
   Tables are best used to organize your page layout! 
   Just kidding. Please don't ever use table layouts. This isn't 1996.
+  
