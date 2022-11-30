@@ -19,4 +19,8 @@ HTML Course :
   5 - Tables :
   Tables are best used to organize your page layout! 
   Just kidding. Please don't ever use table layouts. This isn't 1996.
+
+  6 - Forms :
+  It is often joked that frontend developers spend most of their time just editing buttons on forms. 
+  Theoretically though, if this turned out to be true, wouldn't it behoove you to ensure you knew your way around forms?
   
