@@ -30,4 +30,10 @@ HTML Course :
   
   8 - Accessibility
     Accessible web development leads to a better user experience for all and, ultimately, to a more inclusive internet. In that spirit, let us look at some       of the best practices to follow and some markup elements to include when designing with accessibility in mind.
+    
+  9 - Meta Tags
+      Metadata is special information about your webpage that can be used by search engines and web browsers to do cool stuff. 
+      But where do you define this data?
+
+
 
