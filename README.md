@@ -28,3 +28,6 @@ HTML Course :
   7 - Document Object Model :
   Ah, the Document Object Model. A term that you've heard many times before, that feels intimately familiar, yet that you couldn't define if your life—or your frontend interview—depended on it. Let's change that.
   
+  8 - Accessibility
+    Accessible web development leads to a better user experience for all and, ultimately, to a more inclusive internet. In that spirit, let us look at some       of the best practices to follow and some markup elements to include when designing with accessibility in mind.
+
